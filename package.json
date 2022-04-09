@@ -1,5 +1,5 @@
 {
-  "name": "flame-graph-exercise",
+  "name": "flame-graph-exercise-workers",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -13,6 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.14.1",
-    "fast-levenshtein": "^2.0.6"
+    "fast-levenshtein": "^2.0.6",
+    "piscina": "^3.2.0"
   }
 }
